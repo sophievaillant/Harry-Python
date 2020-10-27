@@ -1,0 +1,19 @@
+Evolution des sentiments
+https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d
+
+https://medium.com/@shalvi.shrivastava14/nlp-and-textual-analysis-of-harry-potter-series-3604bbe4c6fb
+
+https://github.com/khushmeeet/potter-nlp
+
+https://www.kaggle.com/asterol/harry-potter-and-the-sorcecers-stone-nlp-analysis
+
+
+Evolution des interactions entre persos
+https://jamiefradkin.wordpress.com/2016/03/04/metis-project-4-nlp-and-clustering-with-harry-potter-books/
+
+https://rpubs.com/Siebelm/Harry_Potter_2
+
+
+Proposition de pbtique:
+comment évoluent les personnages d'HP au fil des livres?
+(permet d'inclure l'évolution des sentiments: si sont de + en + positifs ou pas, l'évolution des interactions).
