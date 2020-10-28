@@ -21,3 +21,6 @@ comment évoluent les personnages d'HP au fil des livres?
 ou bien sur comment évolue la relation entre des personnages
 (par ex: le triangle d'amitié Harry-Hermione-Ron) 
 un peu sur le modèle de ce qu'a fait le mec (là) qui analyse l'évolution de HP-Snape.
+
+voir aussi sur ce type de sujet:
+https://medium.com/zareen-farooqui/harry-potter-text-analysis-4d89ffe59d5b
