@@ -24,3 +24,14 @@ un peu sur le modèle de ce qu'a fait le mec (là) qui analyse l'évolution de H
 
 voir aussi sur ce type de sujet:
 https://medium.com/zareen-farooqui/harry-potter-text-analysis-4d89ffe59d5b
+
+
+Suivi du projet:
+
+1) Nettoyage des données pour lundi aprem
+- Mettre les textes en csv
+- Virer les petits mots
+- Nettoyer les bas de pages du 2 au 7 
+- Concaténer les textes nettoyés pour pouvoir faire une analyse des chapitres
+/!\ ATTENTION: du 2 au 7, les chapitres sont pas indiqués juste EN MAJUSCULES
+- Créer un dictionnaire de dictionnaires (cf "https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d" )
