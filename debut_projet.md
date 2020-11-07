@@ -35,3 +35,9 @@ Suivi du projet:
 - Concaténer les textes nettoyés pour pouvoir faire une analyse des chapitres
 /!\ ATTENTION: du 2 au 7, les chapitres sont pas indiqués juste EN MAJUSCULES
 - Créer un dictionnaire de dictionnaires (cf "https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d" )
+
+2) Stats des 
+- graph des noms qui reviennent le plus (voir modules python) (Sophie ou Adrien)
+- les noms proches (dans la même phrase): score de proximité (ADRIEN)
+- modules de sentiments: positifs, négatifs, neutres: trouver peut-être une base ou un package qui catégorise les sentiments (Sophie)
+- recouper sentiments et persos 
