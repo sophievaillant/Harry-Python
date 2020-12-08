@@ -41,3 +41,8 @@ Suivi du projet:
 - les noms proches (dans la même phrase): score de proximité (ADRIEN)
 - modules de sentiments: positifs, négatifs, neutres: trouver peut-être une base ou un package qui catégorise les sentiments (Sophie)
 - recouper sentiments et persos 
+
+SUITE:
+- reprendre le truc de positivité des sentiments, essayer de tronquer à partir du score de proximité aux mots où deux personnages apparaissent pour
+déterminer la positivité/négativité de leur relation
+- essayer d'enlever les neutres parce que c'est un roman et beaucoup de mots sont neutres ce qui donne un score très proche de 0
